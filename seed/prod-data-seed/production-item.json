@@ -1,0 +1,1857 @@
+[
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000010",
+        "item_code": "2000",
+        "item_name": "BUTTERMILK 1% 16-1QT CNTRYFR",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0052",
+            "inv-uom-0008",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0008",
+        "status": "Active",
+        "unique_name": "buttermilk 1% 16-1qt cntryfr",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000011",
+        "item_code": "2001",
+        "item_name": "MOP SYN BLND 24Z 1in GREEN 6CT ARRAY",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0044",
+            "inv-uom-0033",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "mop syn blnd 24z 1in green 6ct array",
+        "order_method": null,
+        "safety_stock_type": null,
+        "safety_stock_uom": null,
+        "safety_stock_value": null
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000012",
+        "item_code": "2002",
+        "item_name": "SPICE PEPRCRN BLK 18Z TRDE",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0038",
+            "inv-uom-0022",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0022",
+        "status": "Active",
+        "unique_name": "spice peprcrn blk 18z trde",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000013",
+        "item_code": "2003",
+        "item_name": "DRESSING FREN FF CALIF 4-1GAL MARZ",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0066",
+            "inv-uom-0007",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "dressing fren ff calif 4-1gal marz",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000014",
+        "item_code": "2004",
+        "item_name": "PEPPERONCINI 4-1GAL GFS",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0066",
+            "inv-uom-0007",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "pepperoncini 4-1gal gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000015",
+        "item_code": "2005",
+        "item_name": "SPICE GARLIC POWDER 6# TRDE",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0043",
+            "inv-uom-0032",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "spice garlic powder 6# trde",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000016",
+        "item_code": "2006",
+        "item_name": "COFFEE CLSC RST 160-1.5Z MOSAC",
+        "category": "inv-cat-008",
+        "counting_uoms": [
+            "inv-uom-0053",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "coffee clsc rst 160-1.5z mosac",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0053",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000017",
+        "item_code": "2007",
+        "item_name": "GLOVE VNYL LRG PWDFR 10-100CT KE",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0046",
+            "inv-uom-0017",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0046",
+        "status": "Active",
+        "unique_name": "glove vnyl lrg pwdfr 10-100ct ke",
+        "order_method": null,
+        "safety_stock_type": null,
+        "safety_stock_uom": null,
+        "safety_stock_value": null
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000018",
+        "item_code": "2008",
+        "item_name": "LID DOME PLAS 1# OBLONG 1000CT HFA",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0036",
+            "inv-uom-0016",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0036",
+        "status": "Active",
+        "unique_name": "lid dome plas 1# oblong 1000ct hfa",
+        "order_method": "Usage Per 1000",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0016",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000019",
+        "item_code": "2009",
+        "item_name": "DRESSING RNCH FF 4-1GAL MARZ",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0066",
+            "inv-uom-0007",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "dressing rnch ff 4-1gal marz",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000020",
+        "item_code": "2010",
+        "item_name": "TOPPING PIZZA DCD APPL 6/10# 108Z PH",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0076",
+            "inv-uom-0015"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0015",
+        "status": "Active",
+        "unique_name": "topping pizza dcd appl 6/10# 108z ph",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0015",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000021",
+        "item_code": "2011",
+        "item_name": "SPICE PEPR BLK (30 MESH) REG GRIND 5# TRDE",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0041",
+            "inv-uom-0031",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "spice pepr blk (30 mesh) reg grind 5# trde",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000022",
+        "item_code": "2012",
+        "item_name": "PUMPKIN FCY 6-10 GFS",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0074",
+            "inv-uom-0012"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0012",
+        "status": "Active",
+        "unique_name": "pumpkin fcy 6-10 gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0074",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000023",
+        "item_code": "2013",
+        "item_name": "SCRAPER DOUGH NYLON 1CT",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0045",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "scraper dough nylon 1ct",
+        "order_method": "PAR",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0045",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000024",
+        "item_code": "2014",
+        "item_name": "LID 7Z CLD 20-100CT SOLO",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0058",
+            "inv-uom-0017",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0017",
+        "status": "Active",
+        "unique_name": "lid 7z cld 20-100ct solo",
+        "order_method": "Usage Per 1000",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0058",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000025",
+        "item_code": "2015",
+        "item_name": "DOUGH PERF BRDSTX 16Z 36-10CT",
+        "category": "inv-cat-002",
+        "counting_uoms": [
+            "inv-uom-0064",
+            "inv-uom-0018",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0018",
+        "status": "Active",
+        "unique_name": "dough perf brdstx 16z 36-10ct",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0064",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000026",
+        "item_code": "2016",
+        "item_name": "MOP SYN BLND 16Z 1in GREEN 6CT ARRAY",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0044",
+            "inv-uom-0033",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "mop syn blnd 16z 1in green 6ct array",
+        "order_method": null,
+        "safety_stock_type": null,
+        "safety_stock_uom": null,
+        "safety_stock_value": null
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000027",
+        "item_code": "2017",
+        "item_name": "CLEANER(B)&DEGR A/P HK 1-2700ML ARRAY",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0040",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0040",
+        "status": "Active",
+        "unique_name": "cleaner(b)&degr a/p hk 1-2700ml array",
+        "order_method": null,
+        "safety_stock_type": null,
+        "safety_stock_uom": null,
+        "safety_stock_value": null
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000028",
+        "item_code": "2018",
+        "item_name": "HANDLE BROOM WOOD 60in 1CT OCEDAR",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0045",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "handle broom wood 60in 1ct ocedar",
+        "order_method": null,
+        "safety_stock_type": null,
+        "safety_stock_uom": null,
+        "safety_stock_value": null
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000029",
+        "item_code": "2019",
+        "item_name": "BACON PIECES SML FC 12-2.5# TYSON",
+        "category": "inv-cat-013",
+        "counting_uoms": [
+            "inv-uom-0049",
+            "inv-uom-0023",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0023",
+        "status": "Active",
+        "unique_name": "bacon pieces sml fc 12-2.5# tyson",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0023",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000030",
+        "item_code": "2020",
+        "item_name": "SAUCE GARLIC PARM 8-32Z WS",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0080",
+            "inv-uom-0028"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0028",
+        "status": "Active",
+        "unique_name": "sauce garlic parm 8-32z ws",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000031",
+        "item_code": "2021",
+        "item_name": "CRACKER BEAR JUG 6-46Z STAUFF",
+        "category": "inv-cat-006",
+        "counting_uoms": [
+            "inv-uom-0077",
+            "inv-uom-0030",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0030",
+        "status": "Active",
+        "unique_name": "cracker bear jug 6-46z stauff",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0030",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000032",
+        "item_code": "2022",
+        "item_name": "PLACEMAT KIDS 1000CT",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0036",
+            "inv-uom-0016",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "placemat kids 1000ct",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0016",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000033",
+        "item_code": "2023",
+        "item_name": "LETTUCE SALAD MXD W/ROM 4-5#",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0068",
+            "inv-uom-0031",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0031",
+        "status": "Active",
+        "unique_name": "lettuce salad mxd w/rom 4-5#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000034",
+        "item_code": "2024",
+        "item_name": "SALT PELLETS 50# DIAC",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0042",
+            "inv-uom-0003",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "salt pellets 50# diac",
+        "order_method": "PAR",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0042",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000035",
+        "item_code": "2025",
+        "item_name": "SANITIZER ULTIMATE (Q) 1-2700ML ARRAY",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0040",
+            "inv-uom-0026",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0040",
+        "status": "Active",
+        "unique_name": "sanitizer ultimate (q) 1-2700ml array",
+        "order_method": "PAR",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0026",
+        "safety_stock_value": 15
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000036",
+        "item_code": "2026",
+        "item_name": "CONT CLAMSH CORR 2011 LG 1-200CT WS",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0039",
+            "inv-uom-0025",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0039",
+        "status": "Active",
+        "unique_name": "cont clamsh corr 2011 lg 1-200ct ws",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0025",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000037",
+        "item_code": "2027",
+        "item_name": "CHEESE STRING FROZEN 1-15# LEPRN",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0037",
+            "inv-uom-0019",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "cheese string frozen 1-15# leprn",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0019",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000038",
+        "item_code": "2028",
+        "item_name": "BROOM PUSH MED 18-1CT CARL",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0045",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "broom push med 18? 1ct carl",
+        "order_method": "PAR",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0045",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000039",
+        "item_code": "2029",
+        "item_name": "CONT FOIL 1# 5.5X4.5in OBLONG 1M",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0035",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "cont foil 1# 5.5x4.5in oblong 1m",
+        "order_method": "Usage Per 1000",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0035",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000040",
+        "item_code": "2030",
+        "item_name": "DRESSING RNCH FF PKT 60-1.5Z MARZ",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0078",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0078",
+        "status": "Active",
+        "unique_name": "dressing rnch ff pkt 60-1.5z marz",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000041",
+        "item_code": "2031",
+        "item_name": "ANCHOVY FLAT IN OLV OIL 25-2Z ROLN",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0060",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0060",
+        "status": "Active",
+        "unique_name": "anchovy flat in olv oil 25-2z roln",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0060",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000042",
+        "item_code": "2032",
+        "item_name": "PAN FOIL 1/2 SZ 2.5 DP 2-50CT PCTV",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0035",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "pan foil 1/2 sz 2.5 dp 2-50ct pctv",
+        "order_method": "Usage Per 1000",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0035",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000043",
+        "item_code": "2033",
+        "item_name": "BEET SLCD MED PICKLED 6-10 GFS",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0074",
+            "inv-uom-0012"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0012",
+        "status": "Active",
+        "unique_name": "beet slcd med pickled 6-10 gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0074",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000044",
+        "item_code": "2034",
+        "item_name": "SOUR CREAM STIX PK 400-1Z GFS",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0069",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0069",
+        "status": "Active",
+        "unique_name": "sour cream stix pk 400-1z gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000045",
+        "item_code": "2035",
+        "item_name": "CRACKER CLUB PC PKG 300-2CT KEEB",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0063",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0063",
+        "status": "Active",
+        "unique_name": "cracker club pc pkg 300-2ct keeb",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0063",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000046",
+        "item_code": "2036",
+        "item_name": "MUSHROOM SLCD 3/16 #10",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0062",
+            "inv-uom-0012"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0012",
+        "status": "Active",
+        "unique_name": "mushroom slcd 3/16 #10",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0062",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000047",
+        "item_code": "2037",
+        "item_name": "HAMBURGER PATTY",
+        "category": "inv-cat-012",
+        "counting_uoms": [
+            "inv-uom-0071",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0071",
+        "status": "Active",
+        "unique_name": "hamburger patty",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0071",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000048",
+        "item_code": "2038",
+        "item_name": "TOMATO WHL #2 RNDM 25#",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0061",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "tomato whl #2 rndm 25#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0061",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000049",
+        "item_code": "2039",
+        "item_name": "CONT CLAMSH CORR 2011 SM 1-300CT WS",
+        "category": "inv-cat-009",
+        "counting_uoms": [
+            "inv-uom-0063",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0063",
+        "status": "Active",
+        "unique_name": "cont clamsh corr 2011 sm 1-300ct ws",
+        "order_method": "PAR",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0063",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000050",
+        "item_code": "2040",
+        "item_name": "CHEESE PROV NAT SLC .75Z 6-1.5# GFS",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0075",
+            "inv-uom-0014",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "cheese prov nat slc .75z 6-1.5# gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0014",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000051",
+        "item_code": "2041",
+        "item_name": "PASTA SPAGHETTI CKD 4-5# PG",
+        "category": "inv-cat-006",
+        "counting_uoms": [
+            "inv-uom-0068",
+            "inv-uom-0031",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "pasta spaghetti ckd 4-5# pg",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000052",
+        "item_code": "2042",
+        "item_name": "BACON TOPPING CKD 8-2.5# TYS",
+        "category": "inv-cat-013",
+        "counting_uoms": [
+            "inv-uom-0079",
+            "inv-uom-0023",
+            "inv-uom-0084"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "bacon topping ckd 8-2.5# tys",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0023",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000053",
+        "item_code": "2043",
+        "item_name": "DRESSING RNCH 4-1GAL HVALL",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0066",
+            "inv-uom-0007",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "dressing rnch 4-1gal hvall",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000054",
+        "item_code": "2044",
+        "item_name": "CHEESE CHED SLC .75Z 6-1.5# GFS",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0075",
+            "inv-uom-0014",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "cheese ched slc .75z 6-1.5# gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0014",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000055",
+        "item_code": "2045",
+        "item_name": "CHEESE SWI SLC .75Z 6-1.5# GFS",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0075",
+            "inv-uom-0014",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "cheese swi slc .75z 6-1.5# gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0014",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000056",
+        "item_code": "2046",
+        "item_name": "BUTTERMILK JUG 9-.5GAL CNTRYFR",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0082",
+            "inv-uom-0011"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "buttermilk jug 9-.5gal cntryfr",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0011",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000057",
+        "item_code": "2047",
+        "item_name": "PEACH SLCD L/S 6-10 GFS",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0074",
+            "inv-uom-0012"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0012",
+        "status": "Active",
+        "unique_name": "peach slcd l/s 6-10 gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0074",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000058",
+        "item_code": "2048",
+        "item_name": "FRENCH FRIES",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0068",
+            "inv-uom-0031",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "french fries",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000059",
+        "item_code": "2049",
+        "item_name": "CHIX WNG BRD B/I RTC 10-4#",
+        "category": "inv-cat-014",
+        "counting_uoms": [
+            "inv-uom-0047",
+            "inv-uom-0029",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "chix wng brd b/i rtc 10-4#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0029",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000060",
+        "item_code": "2050",
+        "item_name": "SALAD PASTA ROTINI 2-5# GFS",
+        "category": "inv-cat-006",
+        "counting_uoms": [
+            "inv-uom-0057",
+            "inv-uom-0031",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "salad pasta rotini 2-5# gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000061",
+        "item_code": "2051",
+        "item_name": "SOUP TOMATO BASIL 12-2.5# TYSON",
+        "category": "inv-cat-006",
+        "counting_uoms": [
+            "inv-uom-0049",
+            "inv-uom-0023"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0023",
+        "status": "Active",
+        "unique_name": "soup tomato basil 12-2.5# tyson",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0023",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000062",
+        "item_code": "2052",
+        "item_name": "MILK WHT 2% REDC FAT 4-1GAL RGNLBRND",
+        "category": "inv-cat-004",
+        "counting_uoms": [
+            "inv-uom-0066",
+            "inv-uom-0007",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "milk wht 2% redc fat 4-1gal rgnlbrnd",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0007",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000063",
+        "item_code": "2053",
+        "item_name": "COFF COLOMB DECAF 2-1.25LTR GDORIGIN",
+        "category": "inv-cat-008",
+        "counting_uoms": [
+            "inv-uom-0054",
+            "inv-uom-0013"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0054",
+        "status": "Active",
+        "unique_name": "coff colomb decaf 2-1.25ltr gdorigin",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0013",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000064",
+        "item_code": "2054",
+        "item_name": "LETTUCE SHRD 1/4in 5-2#",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0073",
+            "inv-uom-0024",
+            "inv-uom-0003"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0024",
+        "status": "Active",
+        "unique_name": "lettuce shrd 1/4in 5-2#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0024",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000065",
+        "item_code": "2055",
+        "item_name": "SAUCE MARINARA MEATY 8-5#",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0081",
+            "inv-uom-0031"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0031",
+        "status": "Active",
+        "unique_name": "sauce marinara meaty 8-5#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000066",
+        "item_code": "2056",
+        "item_name": "CHEESECAKE NY STYL 16CUT 2CT",
+        "category": "inv-cat-005",
+        "counting_uoms": [
+            "inv-uom-0055",
+            "inv-uom-0021",
+            "inv-uom-0084"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0055",
+        "status": "Active",
+        "unique_name": "cheesecake ny styl 16cut 2ct",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0021",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000067",
+        "item_code": "2057",
+        "item_name": "CHIP NACHO CHEESE 5-16Z DORITOS",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0072",
+            "inv-uom-0034"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0034",
+        "status": "Active",
+        "unique_name": "chip nacho cheese 5-16z doritos",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0072",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000068",
+        "item_code": "2058",
+        "item_name": "SAUCE BUFFALO SAND 2-1GAL FRENC",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0056",
+            "inv-uom-0007"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0007",
+        "status": "Active",
+        "unique_name": "sauce buffalo sand 2-1gal frenc",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000069",
+        "item_code": "2059",
+        "item_name": "TISSUE TOILT 2PLY 96-500 ARRAY",
+        "category": "inv-cat-017",
+        "counting_uoms": [
+            "inv-uom-0083",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0083",
+        "status": "Active",
+        "unique_name": "tissue toilt 2ply 96-500 array",
+        "order_method": "Usage Per 1000",
+        "safety_stock_type": null,
+        "safety_stock_uom": "inv-uom-0083",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000070",
+        "item_code": "2060",
+        "item_name": "BROCCOLI FLORETS 4-3#",
+        "category": "inv-cat-010",
+        "counting_uoms": [
+            "inv-uom-0067",
+            "inv-uom-0027"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0027",
+        "status": "Active",
+        "unique_name": "broccoli florets 4-3#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0027",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000071",
+        "item_code": "2061",
+        "item_name": "MEAT BALLS ITAL 1.3Z F/C 2-5#",
+        "category": "inv-cat-012",
+        "counting_uoms": [
+            "inv-uom-0057",
+            "inv-uom-0031"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "meat balls ital 1.3z f/c 2-5#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000072",
+        "item_code": "2062",
+        "item_name": "HAM SLCD BLACK FOREST FZ 16-15Z TYS",
+        "category": "inv-cat-013",
+        "counting_uoms": [
+            "inv-uom-0051",
+            "inv-uom-0020"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "ham slcd black forest fz 16-15z tys",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0051",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000073",
+        "item_code": "2063",
+        "item_name": "CHIX WING BNLS BAKED FZ 4-5# PPRIDE",
+        "category": "inv-cat-014",
+        "counting_uoms": [
+            "inv-uom-0068",
+            "inv-uom-0031"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "chix wing bnls baked fz 4-5# ppride",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000074",
+        "item_code": "2064",
+        "item_name": "HAM SLCD & QTR 2-5#",
+        "category": "inv-cat-013",
+        "counting_uoms": [
+            "inv-uom-0057",
+            "inv-uom-0031"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "ham slcd & qtr 2-5#",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0031",
+        "safety_stock_value": 25
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000075",
+        "item_code": "2065",
+        "item_name": "TURKEY SLCD SMKD FZ 16-15Z TYSON",
+        "category": "inv-cat-014",
+        "counting_uoms": [
+            "inv-uom-0051",
+            "inv-uom-0020"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "turkey slcd smkd fz 16-15z tyson",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0051",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000076",
+        "item_code": "2066",
+        "item_name": "NOODLE CHOW MEIN 1.5#/CAN 6-10 GFS",
+        "category": "inv-cat-006",
+        "counting_uoms": [
+            "inv-uom-0074",
+            "inv-uom-0012"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0012",
+        "status": "Active",
+        "unique_name": "noodle chow mein 1.5#/can 6-10 gfs",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0074",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000077",
+        "item_code": "2067",
+        "item_name": "STEAK CHUCK FLAT IRON",
+        "category": "inv-cat-012",
+        "counting_uoms": [
+            "inv-uom-0050",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "steak chuck flat iron",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0050",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000078",
+        "item_code": "2068",
+        "item_name": "STEAK FILLET",
+        "category": "inv-cat-012",
+        "counting_uoms": [
+            "inv-uom-0059",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "steak fillet",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0059",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000079",
+        "item_code": "2069",
+        "item_name": "SALMON FILLET",
+        "category": "inv-cat-015",
+        "counting_uoms": [
+            "inv-uom-0070",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "salmon fillet",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0070",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000080",
+        "item_code": "2070",
+        "item_name": "TROUT",
+        "category": "inv-cat-015",
+        "counting_uoms": [
+            "inv-uom-0065",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "trout",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0065",
+        "safety_stock_value": 6
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000081",
+        "item_code": "2071",
+        "item_name": "CHICKEN BREAST",
+        "category": "inv-cat-014",
+        "counting_uoms": [
+            "inv-uom-0048",
+            "inv-uom-0003",
+            "inv-uom-0002"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0003",
+        "status": "Active",
+        "unique_name": "chicken breast",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0003",
+        "safety_stock_value": 15
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000082",
+        "item_code": "2072",
+        "item_name": "BUN",
+        "category": "inv-cat-003",
+        "counting_uoms": [
+            "inv-uom-0059",
+            "inv-uom-0043",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "bun",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0001",
+        "safety_stock_value": 30
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0000083",
+        "item_code": "2073",
+        "item_name": "SIRLOIN",
+        "category": "inv-cat-012",
+        "counting_uoms": [
+            "inv-uom-0071",
+            "inv-uom-0001"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "sirloin",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Quantity",
+        "safety_stock_uom": "inv-uom-0071",
+        "safety_stock_value": 1
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0003001",
+        "item_code": "3001",
+        "item_name": "DRINK_T3001",
+        "category": "inv-cat-008",
+        "counting_uoms": [
+            "inv-uom-0012",
+            "inv-uom-0017",
+            "inv-uom-0016"
+        ],
+        "base_uom": "inv-uom-0001",
+        "reporting_uom": "inv-uom-0001",
+        "status": "Active",
+        "unique_name": "drink_t3001",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0003002",
+        "item_code": "3002",
+        "item_name": "DRINK_T3002",
+        "category": "inv-cat-008",
+        "counting_uoms": [
+            "inv-uom-0007",
+            "inv-uom-0008",
+            "inv-uom-0006"
+        ],
+        "base_uom": "inv-uom-0006",
+        "reporting_uom": "inv-uom-0006",
+        "status": "Active",
+        "unique_name": "drink_t3002",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "store_key": [
+            "store_test",
+            "store_test_03",
+            "store_test_11"
+        ],
+        "id": "inv-item-0003003",
+        "item_code": "3003",
+        "item_name": "DRINK_T3003",
+        "category": "inv-cat-008",
+        "counting_uoms": [
+            "inv-uom-0003",
+            "inv-uom-0002",
+            "inv-uom-0014"
+        ],
+        "base_uom": "inv-uom-0002",
+        "reporting_uom": "inv-uom-0002",
+        "status": "Active",
+        "unique_name": "drink_t3003",
+        "order_method": "Forecasting",
+        "safety_stock_type": "Percentage",
+        "safety_stock_uom": null,
+        "safety_stock_value": 5
+    },
+    {
+        "safety_stock_uom": "inv-uom-0021",
+        "item_name": "BACHAMEL SAUCE",
+        "order_method": null,
+        "counting_uoms": [
+          "inv-uom-0021",
+          "inv-uom-0018",
+          "inv-uom-0011"
+        ],
+        "item_code": "3101",
+        "category": "inv-cat-006",
+        "reporting_uom": "inv-uom-0012",
+        "store_key": [
+          "store_test",
+          "store_test_04"
+        ],
+        "base_uom": "inv-uom-0001",
+        "unique_name": "bachamel sauce",
+        "status": "Active",
+        "safety_stock_type": null,
+        "safety_stock_value": null,
+        "id": "bfe29180-5d9f-11e8-88d0-9918ff1d88ae"
+      },
+      {
+        "safety_stock_uom": null,
+        "item_name": "SALT",
+        "order_method": null,
+        "counting_uoms": [
+          "inv-uom-0018",
+          "inv-uom-0021",
+          "inv-uom-0011"
+        ],
+        "item_code": "3102",
+        "category": "inv-cat-003",
+        "reporting_uom": "inv-uom-0012",
+        "store_key": [
+          "store_test",
+          "store_test_04"
+        ],
+        "base_uom": "inv-uom-0001",
+        "unique_name": "salt",
+        "status": "Active",
+        "safety_stock_type": null,
+        "safety_stock_value": null,
+        "id": "e73a9700-5d9f-11e8-88d0-9918ff1d88ae"
+      }
+]

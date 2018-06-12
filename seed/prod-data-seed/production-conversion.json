@@ -1,0 +1,362 @@
+[
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000010",
+    "id": "inv-conversion-000001",
+    "from_uom": "inv-uom-0052",
+    "to_uom": "inv-uom-0006",
+    "factor": 512
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000012",
+    "id": "inv-conversion-000002",
+    "from_uom": "inv-uom-0038",
+    "to_uom": "inv-uom-0002",
+    "factor": 18
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000013",
+    "id": "inv-conversion-000003",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0007",
+    "factor": 4
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000014",
+    "id": "inv-conversion-000004",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0006",
+    "factor": 512
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000015",
+    "id": "inv-conversion-000005",
+    "from_uom": "inv-uom-0043",
+    "to_uom": "inv-uom-0002",
+    "factor": 96
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000019",
+    "id": "inv-conversion-000006",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0007",
+    "factor": 4
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000020",
+    "id": "inv-conversion-000007",
+    "from_uom": "inv-uom-0076",
+    "to_uom": "inv-uom-0015",
+    "factor": 0.5
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000021",
+    "id": "inv-conversion-000008",
+    "from_uom": "inv-uom-0041",
+    "to_uom": "inv-uom-0002",
+    "factor": 80
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000027",
+    "id": "inv-conversion-000009",
+    "from_uom": "inv-uom-0040",
+    "to_uom": "inv-uom-0006",
+    "factor": 91
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000029",
+    "id": "inv-conversion-000010",
+    "from_uom": "inv-uom-0049",
+    "to_uom": "inv-uom-0002",
+    "factor": 480
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000030",
+    "id": "inv-conversion-000011",
+    "from_uom": "inv-uom-0080",
+    "to_uom": "inv-uom-0028",
+    "factor": 8
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000031",
+    "id": "inv-conversion-000012",
+    "from_uom": "inv-uom-0077",
+    "to_uom": "inv-uom-0030",
+    "factor": 6
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000033",
+    "id": "inv-conversion-000013",
+    "from_uom": "inv-uom-0068",
+    "to_uom": "inv-uom-0031",
+    "factor": 4
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000034",
+    "id": "inv-conversion-000014",
+    "from_uom": "inv-uom-0042",
+    "to_uom": "inv-uom-0003",
+    "factor": 50
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000035",
+    "id": "inv-conversion-000015",
+    "from_uom": "inv-uom-0040",
+    "to_uom": "inv-uom-0006",
+    "factor": 91
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000037",
+    "id": "inv-conversion-000016",
+    "from_uom": "inv-uom-0037",
+    "to_uom": "inv-uom-0002",
+    "factor": 240
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000048",
+    "id": "inv-conversion-000017",
+    "from_uom": "inv-uom-0001",
+    "to_uom": "inv-uom-0003",
+    "factor": 4
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000050",
+    "id": "inv-conversion-000018",
+    "from_uom": "inv-uom-0075",
+    "to_uom": "inv-uom-0002",
+    "factor": 144
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000051",
+    "id": "inv-conversion-000019",
+    "from_uom": "inv-uom-0068",
+    "to_uom": "inv-uom-0003",
+    "factor": 20
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000052",
+    "id": "inv-conversion-000020",
+    "from_uom": "inv-uom-0079",
+    "to_uom": "inv-uom-0023",
+    "factor": 8
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000053",
+    "id": "inv-conversion-000021",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0006",
+    "factor": 512
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000054",
+    "id": "inv-conversion-000022",
+    "from_uom": "inv-uom-0075",
+    "to_uom": "inv-uom-0003",
+    "factor": 9
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000055",
+    "id": "inv-conversion-000023",
+    "from_uom": "inv-uom-0075",
+    "to_uom": "inv-uom-0003",
+    "factor": 9
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000056",
+    "id": "inv-conversion-000024",
+    "from_uom": "inv-uom-0082",
+    "to_uom": "inv-uom-0011",
+    "factor": 9
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000058",
+    "id": "inv-conversion-000025",
+    "from_uom": "inv-uom-0068",
+    "to_uom": "inv-uom-0003",
+    "factor": 20
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000059",
+    "id": "inv-conversion-000026",
+    "from_uom": "inv-uom-0047",
+    "to_uom": "inv-uom-0003",
+    "factor": 40
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000060",
+    "id": "inv-conversion-000027",
+    "from_uom": "inv-uom-0057",
+    "to_uom": "inv-uom-0003",
+    "factor": 10
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000061",
+    "id": "inv-conversion-000028",
+    "from_uom": "inv-uom-0049",
+    "to_uom": "inv-uom-0023",
+    "factor": 12
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000062",
+    "id": "inv-conversion-000029",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0007",
+    "factor": 4
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000063",
+    "id": "inv-conversion-000030",
+    "from_uom": "inv-uom-0054",
+    "to_uom": "inv-uom-0013",
+    "factor": 20
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000064",
+    "id": "inv-conversion-000031",
+    "from_uom": "inv-uom-0073",
+    "to_uom": "inv-uom-0024",
+    "factor": 5
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000065",
+    "id": "inv-conversion-000032",
+    "from_uom": "inv-uom-0081",
+    "to_uom": "inv-uom-0031",
+    "factor": 8
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000068",
+    "id": "inv-conversion-000033",
+    "from_uom": "inv-uom-0056",
+    "to_uom": "inv-uom-0007",
+    "factor": 2
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000070",
+    "id": "inv-conversion-000034",
+    "from_uom": "inv-uom-0067",
+    "to_uom": "inv-uom-0027",
+    "factor": 3
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000071",
+    "id": "inv-conversion-000035",
+    "from_uom": "inv-uom-0057",
+    "to_uom": "inv-uom-0003",
+    "factor": 10
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000072",
+    "id": "inv-conversion-000036",
+    "from_uom": "inv-uom-0051",
+    "to_uom": "inv-uom-0020",
+    "factor": 16
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000073",
+    "id": "inv-conversion-000037",
+    "from_uom": "inv-uom-0068",
+    "to_uom": "inv-uom-0003",
+    "factor": 20
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000074",
+    "id": "inv-conversion-000038",
+    "from_uom": "inv-uom-0057",
+    "to_uom": "inv-uom-0003",
+    "factor": 10
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000075",
+    "id": "inv-conversion-000039",
+    "from_uom": "inv-uom-0051",
+    "to_uom": "inv-uom-0003",
+    "factor": 15
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000081",
+    "id": "inv-conversion-000040",
+    "from_uom": "inv-uom-0048",
+    "to_uom": "inv-uom-0003",
+    "factor": 10
+  },
+  {
+    "entity_type": "InvItem",
+    "entity_id": "inv-item-0000083",
+    "id": "inv-conversion-000041",
+    "from_uom": "inv-uom-0066",
+    "to_uom": "inv-uom-0006",
+    "factor": 512
+  },
+  {
+    "from_uom": "inv-uom-0001",
+    "entity_id": "bfe29180-5d9f-11e8-88d0-9918ff1d88ae",
+    "to_uom": "inv-uom-0011",
+    "entity_type": "InvItem",
+    "id": "Item1_Conversion",
+    "factor": 5
+  },
+  {
+    "from_uom": "inv-uom-0001",
+    "entity_id": "e73a9700-5d9f-11e8-88d0-9918ff1d88ae",
+    "to_uom": "inv-uom-0011",
+    "entity_type": "InvItem",
+    "id": "Item2_Conversion",
+    "factor": 5
+  },
+  {
+    "from_uom": "inv-uom-0006",
+    "entity_id": "y_item03",
+    "to_uom": "inv-uom-0003",
+    "entity_type": "InvItem",
+    "id": "y_item03",
+    "factor": 10
+  },
+  {
+    "from_uom": "inv-uom-0004",
+    "entity_id": "y_item05",
+    "to_uom": "inv-uom-0044",
+    "entity_type": "InvItem",
+    "id": "y_item05",
+    "factor": 13
+  }
+]
