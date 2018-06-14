@@ -213,15 +213,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -318,7 +310,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -537,15 +529,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -642,7 +626,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -861,15 +845,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -966,7 +942,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -1185,15 +1161,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -1290,7 +1258,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -1509,15 +1477,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -1614,7 +1574,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -1833,15 +1793,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -1938,7 +1890,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -2157,15 +2109,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -2262,7 +2206,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -2481,15 +2425,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -2586,7 +2522,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -2805,15 +2741,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -2910,7 +2838,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -3129,15 +3057,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -3234,7 +3154,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -3453,15 +3373,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -3558,7 +3470,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -3777,15 +3689,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -3882,7 +3786,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -4101,15 +4005,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -4206,7 +4102,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -4425,15 +4321,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -4530,7 +4418,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
@@ -4749,15 +4637,7 @@
     ],
     "forecast_recipes": [
       {
-        "recipe": "inv-recipe-000002"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      {
+        "recipe": "inv-recipe-000002",
         "bucket_values": [
           10.12,
           0,
@@ -4854,7 +4734,7 @@
           12.6,
           12.7,
           12.8,
-          12.9
+          12.1
         ]
       }
     ]
