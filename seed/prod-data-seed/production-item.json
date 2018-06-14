@@ -5,10 +5,10 @@
             "store_test_03",
             "store_test_11"
         ],
-        "id": "inv-item-0000010",
-        "item_code": "2000",
-        "item_name": "BUTTERMILK 1% 16-1QT CNTRYFR",
-        "category": "inv-cat-004",
+            "id": "inv-item-0000010",
+            "item_code": "2000",
+            "item_name": "BUTTERMILK 1% 16-1QT CNTRYFR",
+            "category": "inv-cat-004",
         "counting_uoms": [
             "inv-uom-0052",
             "inv-uom-0008",
@@ -453,7 +453,8 @@
         "store_key": [
             "store_test",
             "store_test_03",
-            "store_test_11"
+            "store_test_11",
+            "store_test_02"
         ],
         "id": "inv-item-0000029",
         "item_code": "2019",
@@ -783,7 +784,8 @@
         "store_key": [
             "store_test",
             "store_test_03",
-            "store_test_11"
+            "store_test_11",
+            "store_test_02"
         ],
         "id": "inv-item-0000043",
         "item_code": "2033",
@@ -992,7 +994,8 @@
         "store_key": [
             "store_test",
             "store_test_03",
-            "store_test_11"
+            "store_test_11",
+            "store_test_02"
         ],
         "id": "inv-item-0000052",
         "item_code": "2042",
@@ -1416,7 +1419,8 @@
         "store_key": [
             "store_test",
             "store_test_03",
-            "store_test_11"
+            "store_test_11",
+            "store_test_02"
         ],
         "id": "inv-item-0000070",
         "item_code": "2060",
@@ -1822,7 +1826,8 @@
         "reporting_uom": "inv-uom-0012",
         "store_key": [
           "store_test",
-          "store_test_04"
+          "store_test_04",
+          "store_test_02"
         ],
         "base_uom": "inv-uom-0001",
         "unique_name": "bachamel sauce",
