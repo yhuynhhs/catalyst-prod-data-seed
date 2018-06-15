@@ -1827,7 +1827,7 @@
         "store_key": [
           "store_test",
           "store_test_04",
-          "store_test_02"
+           "store_test_02"
         ],
         "base_uom": "inv-uom-0001",
         "unique_name": "bachamel sauce",
