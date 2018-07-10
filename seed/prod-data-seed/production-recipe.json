@@ -17,7 +17,7 @@
     "oh_tracking": true
   },
   {
-    "id": "inv-recipe-000002",
+      "id": "inv-recipe-000002",
     "name": "Meat Ball",
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",

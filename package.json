@@ -1,14 +1,19 @@
 {
   "name": "clear-data",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Support reseed data",
   "main": "index.js",
   "scripts": {
-    "qa": "set _ENV=qa5 && node lib/index.js",
-    "dev": "set _ENV=dev5 && node src/index.js"
+    "kms_qa5": "set _ENV=kms_qa5 && node lib/index.js",
+    "kms_dev5": "set _ENV=kms_dev5 && node lib/index.js",
+    "prod_qa_auto": "set _ENV=prod_qa_auto && node lib/index.js",
+    "kms_securitytest": "set _ENV=kms_security_test && node lib/index.js",
+    "kms_qa_uat": "set _ENV=kms_qa_uat && node lib/index.js",
+    "kms_qa_test": "set _ENV=kms_qa_test && node lib/index.js",
+    "inv_dev_uat": "set _ENV=inv_dev_uat && node lib/index.js"
   },
   "keywords": [],
-  "author": "ThangTran",
+  "author": "YHuynh",
   "private": true,
   "dependencies": {
     "async": "^2.6.0",
