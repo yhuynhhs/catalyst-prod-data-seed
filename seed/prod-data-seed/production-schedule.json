@@ -1,0 +1,150 @@
+[
+  {
+    "store_key": null,
+    "name": "Global Daily Prep",
+    "unique_name": "global daily prep_null",
+    "status": "Active",
+    "frequencies": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "12:45 AM",
+        "is_thaw": false,
+        "is_prep": true
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "7:15 AM",
+        "is_thaw": false,
+        "is_prep": true
+      }
+    ],
+    "id": "prod-sched-0001"
+  },
+  {
+    "store_key": null,
+    "name": "Global Daily Thaw",
+    "unique_name": "global daily thaw_null",
+    "status": "Active",
+    "frequencies": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "4:15 AM",
+        "is_thaw": true,
+        "is_prep": false
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "4:45 PM",
+        "is_thaw": true,
+        "is_prep": false
+      }
+    ],
+    "id": "prod-sched-0002"
+  },
+  {
+    "store_key": "store_test",
+    "name": "Local VN Store Daily Prep",
+    "unique_name": "local vn store daily prep_store_test",
+    "status": "Active",
+    "frequencies": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "3:30 PM",
+        "is_thaw": false,
+        "is_prep": true
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "4:00 PM",
+        "is_thaw": false,
+        "is_prep": true
+      }
+    ],
+    "id": "prod-sched-0003"
+  },
+  {
+    "store_key": "store_test",
+    "name": "Local VN Store Daily Thaw",
+    "unique_name": "local vn store daily thaw_store_test",
+    "status": "Active",
+    "frequencies": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "6:00 PM",
+        "is_thaw": true,
+        "is_prep": false
+      },
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "frequency_time": "6:45 PM",
+        "is_thaw": true,
+        "is_prep": false
+      }
+    ],
+    "id": "prod-sched-0004"
+  }
+]

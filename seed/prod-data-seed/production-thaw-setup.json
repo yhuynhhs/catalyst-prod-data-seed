@@ -1,0 +1,45 @@
+[
+  {
+    "schedule": "prod-sched-0002",
+    "item_id": "inv-item-0000073",
+    "thaw_time": "01:00",
+    "thaw_uom": "inv-uom-0001",
+    "store_key": {
+      "store_test": "prod-sched-0002",
+      "store_test_03": "prod-sched-0002",
+      "store_test_11": "prod-sched-0002"
+    },
+    "minimum_thawed_quantity": 99,
+    "status": "Active",
+    "shelf_life": "04:45",
+    "id": "production-thaw-0001"
+  },
+  {
+    "schedule": "prod-sched-0002",
+    "item_id": "inv-item-0000058",
+    "thaw_time": "00:45",
+    "store_key": {
+      "store_test": "prod-sched-0002",
+      "store_test_03": "prod-sched-0002",
+      "store_test_11": "prod-sched-0002"
+    },
+    "thaw_uom": "inv-uom-0005",
+    "status": "Active",
+    "shelf_life": "08:15",
+    "id": "production-thaw-0002"
+  },
+  {
+    "schedule": "prod-sched-0002",
+    "item_id": "inv-item-0000017",
+    "thaw_time": "00:45",
+    "store_key": {
+      "store_test": "prod-sched-0004",
+      "store_test_03": "prod-sched-0002",
+      "store_test_11": "prod-sched-0002"
+    },
+    "thaw_uom": "inv-uom-0084",
+    "status": "Active",
+    "shelf_life": "04:30",
+    "id": "production-thaw-0003"
+  }
+]
