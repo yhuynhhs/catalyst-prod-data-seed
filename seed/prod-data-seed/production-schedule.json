@@ -74,7 +74,7 @@
     "id": "prod-sched-0002"
   },
   {
-    "store_key": "store_test",
+    "store_key": "tfk_-_biltmore_(lab)",
     "name": "Local VN Store Daily Prep",
     "unique_name": "local vn store daily prep_store_test",
     "status": "Active",
@@ -111,7 +111,7 @@
     "id": "prod-sched-0003"
   },
   {
-    "store_key": "store_test",
+    "store_key": "tfk_-_biltmore_(lab)",
     "name": "Local VN Store Daily Thaw",
     "unique_name": "local vn store daily thaw_store_test",
     "status": "Active",
