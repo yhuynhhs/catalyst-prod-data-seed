@@ -5,7 +5,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test",
+      "tfk_-_biltmore_(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -17,12 +17,12 @@
     "oh_tracking": true
   },
   {
-      "id": "inv-recipe-000002",
+    "id": "inv-recipe-000002",
     "name": "Meat Ball",
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -38,7 +38,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -54,7 +54,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test",
+      "tfk_-_biltmore_(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -71,7 +71,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -87,7 +87,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -103,7 +103,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -119,7 +119,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test",
+      "tfk_-_biltmore_(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -136,7 +136,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -152,7 +152,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -168,7 +168,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -184,7 +184,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "store_test"
+      "tfk_-_biltmore_(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -200,8 +200,8 @@
     "oh_tracking": false,
     "name": "Lasagna",
     "store_key": [
-      "store_test",
-      "store_test_04"
+      "tfk_-_biltmore_(lab)",
+      "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,
     "end_date": null,
@@ -217,8 +217,8 @@
     "oh_tracking": false,
     "name": "Lasagna Noodle",
     "store_key": [
-      "store_test",
-      "store_test_04"
+      "tfk_-_biltmore_(lab)",
+      "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,
     "end_date": null,
@@ -234,8 +234,8 @@
     "oh_tracking": true,
     "name": "Ground Beef",
     "store_key": [
-      "store_test",
-      "store_test_04"
+      "tfk_-_biltmore_(lab)",
+      "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,
     "end_date": null,

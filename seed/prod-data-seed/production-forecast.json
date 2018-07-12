@@ -1,10 +1,10 @@
 [
   {
     "id": "prod-forecast-000010",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-12",
+    "business_day": "2018-07-09",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -317,10 +317,10 @@
   },
   {
     "id": "prod-forecast-000011",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-13",
+    "business_day": "2018-07-10",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -633,10 +633,10 @@
   },
   {
     "id": "prod-forecast-000012",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-14",
+    "business_day": "2018-07-11",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -949,10 +949,10 @@
   },
   {
     "id": "prod-forecast-000013",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-15",
+    "business_day": "2018-07-12",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -1265,10 +1265,10 @@
   },
   {
     "id": "prod-forecast-000014",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-16",
+    "business_day": "2018-07-13",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -1581,10 +1581,10 @@
   },
   {
     "id": "prod-forecast-000015",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-17",
+    "business_day": "2018-07-14",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -1897,10 +1897,10 @@
   },
   {
     "id": "prod-forecast-000016",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-18",
+    "business_day": "2018-07-15",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -2213,10 +2213,10 @@
   },
   {
     "id": "prod-forecast-000017",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-19",
+    "business_day": "2018-07-16",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -2529,10 +2529,10 @@
   },
   {
     "id": "prod-forecast-000018",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-20",
+    "business_day": "2018-07-17",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -2845,10 +2845,10 @@
   },
   {
     "id": "prod-forecast-000019",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-21",
+    "business_day": "2018-07-18",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -3161,10 +3161,10 @@
   },
   {
     "id": "prod-forecast-000020",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-22",
+    "business_day": "2018-07-19",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -3477,10 +3477,10 @@
   },
   {
     "id": "prod-forecast-000021",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-23",
+    "business_day": "2018-07-20",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -3793,10 +3793,10 @@
   },
   {
     "id": "prod-forecast-000022",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-24",
+    "business_day": "2018-07-21",
     "start_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-24T02:25:00.466Z",
     "forecast_items": [
@@ -4109,10 +4109,10 @@
   },
   {
     "id": "prod-forecast-000023",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-25",
+    "business_day": "2018-07-22",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [
@@ -4425,10 +4425,10 @@
   },
   {
     "id": "prod-forecast-000023",
-    "store_number": "store_test",
-    "store_name": "store_test",
+    "store_number": "32999",
+    "store_name": "tfk_-_biltmore_(lab)",
     "timezone": "Asia/Ho_Chi_Minh",
-    "business_day": "2018-06-26",
+    "business_day": "2018-07-23",
     "start_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "end_timestamp_utc": "2018-05-25T02:25:00.466Z",
     "forecast_items": [

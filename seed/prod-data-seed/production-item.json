@@ -1,14 +1,14 @@
 [
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
-            "id": "inv-item-0000010",
-            "item_code": "2000",
-            "item_name": "BUTTERMILK 1% 16-1QT CNTRYFR",
-            "category": "inv-cat-004",
+        "id": "inv-item-0000010",
+        "item_code": "2000",
+        "item_name": "BUTTERMILK 1% 16-1QT CNTRYFR",
+        "category": "inv-cat-004",
         "counting_uoms": [
             "inv-uom-0052",
             "inv-uom-0008",
@@ -25,9 +25,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000011",
         "item_code": "2001",
@@ -49,9 +49,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000012",
         "item_code": "2002",
@@ -73,9 +73,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000013",
         "item_code": "2003",
@@ -97,9 +97,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000014",
         "item_code": "2004",
@@ -121,9 +121,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000015",
         "item_code": "2005",
@@ -145,9 +145,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000016",
         "item_code": "2006",
@@ -168,9 +168,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000017",
         "item_code": "2007",
@@ -192,9 +192,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000018",
         "item_code": "2008",
@@ -216,9 +216,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000019",
         "item_code": "2009",
@@ -240,9 +240,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000020",
         "item_code": "2010",
@@ -263,9 +263,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000021",
         "item_code": "2011",
@@ -287,9 +287,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000022",
         "item_code": "2012",
@@ -310,9 +310,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000023",
         "item_code": "2013",
@@ -333,9 +333,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000024",
         "item_code": "2014",
@@ -357,9 +357,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000025",
         "item_code": "2015",
@@ -381,9 +381,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000026",
         "item_code": "2016",
@@ -405,9 +405,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000027",
         "item_code": "2017",
@@ -428,9 +428,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000028",
         "item_code": "2018",
@@ -451,9 +451,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11",
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66",
             "store_test_02"
         ],
         "id": "inv-item-0000029",
@@ -476,9 +476,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000030",
         "item_code": "2020",
@@ -499,9 +499,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000031",
         "item_code": "2021",
@@ -523,9 +523,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000032",
         "item_code": "2022",
@@ -547,9 +547,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000033",
         "item_code": "2023",
@@ -571,9 +571,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000034",
         "item_code": "2024",
@@ -595,9 +595,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000035",
         "item_code": "2025",
@@ -619,9 +619,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000036",
         "item_code": "2026",
@@ -643,9 +643,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000037",
         "item_code": "2027",
@@ -667,9 +667,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000038",
         "item_code": "2028",
@@ -690,9 +690,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000039",
         "item_code": "2029",
@@ -713,9 +713,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000040",
         "item_code": "2030",
@@ -736,9 +736,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000041",
         "item_code": "2031",
@@ -759,9 +759,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000042",
         "item_code": "2032",
@@ -782,9 +782,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11",
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66",
             "store_test_02"
         ],
         "id": "inv-item-0000043",
@@ -806,9 +806,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000044",
         "item_code": "2034",
@@ -829,9 +829,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000045",
         "item_code": "2035",
@@ -852,9 +852,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000046",
         "item_code": "2036",
@@ -875,9 +875,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000047",
         "item_code": "2037",
@@ -898,9 +898,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000048",
         "item_code": "2038",
@@ -921,9 +921,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000049",
         "item_code": "2039",
@@ -944,9 +944,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000050",
         "item_code": "2040",
@@ -968,9 +968,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000051",
         "item_code": "2041",
@@ -992,9 +992,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11",
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66",
             "store_test_02"
         ],
         "id": "inv-item-0000052",
@@ -1017,9 +1017,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000053",
         "item_code": "2043",
@@ -1041,9 +1041,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000054",
         "item_code": "2044",
@@ -1065,9 +1065,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000055",
         "item_code": "2045",
@@ -1089,9 +1089,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000056",
         "item_code": "2046",
@@ -1112,9 +1112,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000057",
         "item_code": "2047",
@@ -1135,9 +1135,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000058",
         "item_code": "2048",
@@ -1159,9 +1159,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000059",
         "item_code": "2049",
@@ -1183,9 +1183,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000060",
         "item_code": "2050",
@@ -1207,9 +1207,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000061",
         "item_code": "2051",
@@ -1230,9 +1230,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000062",
         "item_code": "2052",
@@ -1254,9 +1254,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000063",
         "item_code": "2053",
@@ -1277,9 +1277,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000064",
         "item_code": "2054",
@@ -1301,9 +1301,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000065",
         "item_code": "2055",
@@ -1324,9 +1324,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000066",
         "item_code": "2056",
@@ -1348,9 +1348,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000067",
         "item_code": "2057",
@@ -1371,9 +1371,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000068",
         "item_code": "2058",
@@ -1394,9 +1394,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000069",
         "item_code": "2059",
@@ -1417,9 +1417,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11",
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66",
             "store_test_02"
         ],
         "id": "inv-item-0000070",
@@ -1441,9 +1441,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000071",
         "item_code": "2061",
@@ -1464,9 +1464,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000072",
         "item_code": "2062",
@@ -1487,9 +1487,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000073",
         "item_code": "2063",
@@ -1510,9 +1510,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000074",
         "item_code": "2064",
@@ -1533,9 +1533,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000075",
         "item_code": "2065",
@@ -1556,9 +1556,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000076",
         "item_code": "2066",
@@ -1579,9 +1579,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000077",
         "item_code": "2067",
@@ -1602,9 +1602,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000078",
         "item_code": "2068",
@@ -1625,9 +1625,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000079",
         "item_code": "2069",
@@ -1648,9 +1648,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000080",
         "item_code": "2070",
@@ -1671,9 +1671,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000081",
         "item_code": "2071",
@@ -1695,9 +1695,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000082",
         "item_code": "2072",
@@ -1719,9 +1719,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0000083",
         "item_code": "2073",
@@ -1742,9 +1742,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0003001",
         "item_code": "3001",
@@ -1766,9 +1766,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0003002",
         "item_code": "3002",
@@ -1790,9 +1790,9 @@
     },
     {
         "store_key": [
-            "store_test",
-            "store_test_03",
-            "store_test_11"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Austin_77",
+            "TFK_-_Houston_66"
         ],
         "id": "inv-item-0003003",
         "item_code": "3003",
@@ -1817,17 +1817,17 @@
         "item_name": "BACHAMEL SAUCE",
         "order_method": null,
         "counting_uoms": [
-          "inv-uom-0021",
-          "inv-uom-0018",
-          "inv-uom-0011"
+            "inv-uom-0021",
+            "inv-uom-0018",
+            "inv-uom-0011"
         ],
         "item_code": "3101",
         "category": "inv-cat-006",
         "reporting_uom": "inv-uom-0012",
         "store_key": [
-          "store_test",
-          "store_test_04",
-           "store_test_02"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Boca_Raton_1022",
+            "store_test_02"
         ],
         "base_uom": "inv-uom-0001",
         "unique_name": "bachamel sauce",
@@ -1835,22 +1835,22 @@
         "safety_stock_type": null,
         "safety_stock_value": null,
         "id": "bfe29180-5d9f-11e8-88d0-9918ff1d88ae"
-      },
-      {
+    },
+    {
         "safety_stock_uom": null,
         "item_name": "SALT",
         "order_method": null,
         "counting_uoms": [
-          "inv-uom-0018",
-          "inv-uom-0021",
-          "inv-uom-0011"
+            "inv-uom-0018",
+            "inv-uom-0021",
+            "inv-uom-0011"
         ],
         "item_code": "3102",
         "category": "inv-cat-003",
         "reporting_uom": "inv-uom-0012",
         "store_key": [
-          "store_test",
-          "store_test_04"
+            "tfk_-_biltmore_(lab)",
+            "TFK_-_Boca_Raton_1022"
         ],
         "base_uom": "inv-uom-0001",
         "unique_name": "salt",
@@ -1858,5 +1858,5 @@
         "safety_stock_type": null,
         "safety_stock_value": null,
         "id": "e73a9700-5d9f-11e8-88d0-9918ff1d88ae"
-      }
+    }
 ]
