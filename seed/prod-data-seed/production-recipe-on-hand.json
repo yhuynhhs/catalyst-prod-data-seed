@@ -1,90 +1,90 @@
 [
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00001",
         "recipe_id": "inv-recipe-000001",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00002",
         "recipe_id": "inv-recipe-000002",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00003",
         "recipe_id": "inv-recipe-000003",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00004",
         "recipe_id": "inv-recipe-000004",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00005",
         "recipe_id": "inv-recipe-000005",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00006",
         "recipe_id": "inv-recipe-000006",
         "theoretical_on_hand": 100,
-		"oh_tracking": false
+        "oh_tracking": false
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00007",
         "recipe_id": "inv-recipe-000007",
         "theoretical_on_hand": 100,
-		"oh_tracking": false
+        "oh_tracking": false
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00008",
         "recipe_id": "inv-recipe-000008",
         "theoretical_on_hand": 100,
-		"oh_tracking": false
+        "oh_tracking": false
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00009",
         "recipe_id": "inv-recipe-000009",
         "theoretical_on_hand": 100,
-		"oh_tracking": false
+        "oh_tracking": false
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00010",
         "recipe_id": "inv-recipe-000010",
         "theoretical_on_hand": 100,
-		"oh_tracking": false
+        "oh_tracking": false
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00011",
         "recipe_id": "inv-recipe-000011",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "rep-on-hand-00012",
         "recipe_id": "inv-recipe-000012",
         "theoretical_on_hand": 100,
-		"oh_tracking": true
+        "oh_tracking": true
     },
     {
-        "store_key": "store_test",
+        "store_key": "tfk_-_~!(lab)",
         "id": "Team3_TrackOH_CountVariance_RecipeOnhand3",
         "recipe_id": "6717fab0-5da2-11e8-9c68-fba71ba83bc5",
         "theoretical_on_hand": 100,

@@ -5,7 +5,7 @@
     "thaw_time": "01:00",
     "thaw_uom": "inv-uom-0001",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0002",
+      "tfk_-_~!(lab)": "prod-sched-0002",
       "TFK_-_Austin_77": "prod-sched-0002",
       "TFK_-_Houston_66": "prod-sched-0002"
     },
@@ -19,7 +19,7 @@
     "item_id": "inv-item-0000058",
     "thaw_time": "00:45",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0002",
+      "tfk_-_~!(lab)": "prod-sched-0002",
       "TFK_-_Austin_77": "prod-sched-0002",
       "TFK_-_Houston_66": "prod-sched-0002"
     },
@@ -33,7 +33,7 @@
     "item_id": "inv-item-0000017",
     "thaw_time": "00:45",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0004",
+      "tfk_-_~!(lab)": "prod-sched-0004",
       "TFK_-_Austin_77": "prod-sched-0002",
       "TFK_-_Houston_66": "prod-sched-0002"
     },

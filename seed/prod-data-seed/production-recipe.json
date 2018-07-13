@@ -5,7 +5,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -22,7 +22,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -38,7 +38,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -54,7 +54,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -71,7 +71,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -87,7 +87,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -103,7 +103,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -119,7 +119,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "store_test_01"
     ],
     "quantity": 100,
@@ -136,7 +136,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -152,7 +152,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -168,7 +168,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -184,7 +184,7 @@
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
-      "tfk_-_biltmore_(lab)"
+      "tfk_-_~!(lab)"
     ],
     "quantity": 100,
     "is_deleted": false,
@@ -200,7 +200,7 @@
     "oh_tracking": false,
     "name": "Lasagna",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,
@@ -217,7 +217,7 @@
     "oh_tracking": false,
     "name": "Lasagna Noodle",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,
@@ -234,7 +234,7 @@
     "oh_tracking": true,
     "name": "Ground Beef",
     "store_key": [
-      "tfk_-_biltmore_(lab)",
+      "tfk_-_~!(lab)",
       "TFK_-_Boca_Raton_1022"
     ],
     "quantity": 100,

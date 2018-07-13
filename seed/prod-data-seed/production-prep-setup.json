@@ -5,7 +5,7 @@
     "hold_time": "01:00",
     "prep_uom": "inv-uom-0072",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0001"
+      "tfk_-_~!(lab)": "prod-sched-0001"
     },
     "minimum_prep_quantity": 15,
     "status": "Active",
@@ -18,7 +18,7 @@
     "hold_time": "04:15",
     "prep_uom": "inv-uom-0021",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0001",
+      "tfk_-_~!(lab)": "prod-sched-0001",
       "TFK_-_Boca_Raton_1022": "prod-sched-0001"
     },
     "status": "Active",
@@ -31,7 +31,7 @@
     "hold_time": "00:45",
     "prep_uom": "inv-uom-0012",
     "store_key": {
-      "tfk_-_biltmore_(lab)": "prod-sched-0003"
+      "tfk_-_~!(lab)": "prod-sched-0003"
     },
     "minimum_prep_quantity": 12,
     "status": "Active",
