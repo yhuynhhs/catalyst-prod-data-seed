@@ -10,7 +10,8 @@
     "kms_securitytest": "set _ENV=kms_security_test && node lib/index.js",
     "kms_qa_uat": "set _ENV=kms_qa_uat && node lib/index.js",
     "kms_qa_test": "set _ENV=kms_qa_test && node lib/index.js",
-    "inv_dev_uat": "set _ENV=inv_dev_uat && node lib/index.js"
+    "inv_dev_uat": "set _ENV=inv_dev_uat && node lib/index.js",
+    "kmsstore1": "set _ENV=kmsstore1 && node lib/index.js"
   },
   "keywords": [],
   "author": "YHuynh",
