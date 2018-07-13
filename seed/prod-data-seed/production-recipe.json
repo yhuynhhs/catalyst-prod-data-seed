@@ -10,14 +10,42 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 16,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+      {
+        "entity_id": "inv-item-0000010",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      },
+      {
+        "entity_id": "inv-item-0000013",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+    ],
+    "recipe_ingredients":
+    [
+      {
+        "entity_id": "6717fab0-5da2-11e8-9c68-fba71ba83bc5",
+        "uom": "inv-uom-0013",
+        "quantity": 10,
+        "category": "inv-cat-004"
+      }
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
-      "id": "inv-recipe-000002",
+    "id": "inv-recipe-000002",
     "name": "Meat Ball",
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
@@ -26,11 +54,38 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 21,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+      {
+        "entity_id": "inv-item-0000011",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      },
+      {
+        "entity_id": "inv-item-0000012",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+    ],
+    "recipe_ingredients":
+    [
+      {
+        "entity_id": "d775c410-5da0-11e8-88d0-9918ff1d88ae",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000003",
@@ -42,11 +97,42 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 18,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+      {
+        "entity_id": "inv-item-0000019",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+    ],
+    "recipe_ingredients":
+    [
+      {
+        "entity_id": "inv-item-000004",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0003",
+        "to_uom_id": "inv-uom-0009",
+        "factor": 500
+      }
+    ],
+    "class_conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0002",
+        "to_uom_id": "inv-uom-0001",
+        "factor": 31.25
+      }
+    ]
   },
   {
     "id": "inv-recipe-000004",
@@ -59,11 +145,38 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 23,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+      {
+        "entity_id": "inv-item-0000014",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      },
+      {
+        "entity_id": "inv-item-0000015",
+        "uom": "inv-uom-0001",
+        "quantity": 10
+      }
+    ],
+    "recipe_ingredients":
+    [
+      {
+        "entity_id": "inv-recipe-000005",
+        "uom": "inv-uom-0005",
+        "quantity": 10
+      }
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000005",
@@ -75,11 +188,33 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 35,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0005",
+        "to_uom_id": "inv-uom-0014",
+        "factor": 20
+      }
+    ],
+    "class_conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0004",
+        "to_uom_id": "inv-uom-0006",
+        "factor": 0.02
+      }
+    ]
   },
   {
     "id": "inv-recipe-000006",
@@ -91,11 +226,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 32,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000007",
@@ -107,11 +256,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 89,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000008",
@@ -124,11 +287,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 18,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000009",
@@ -140,11 +317,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 16,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000010",
@@ -156,11 +347,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 18,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000011",
@@ -172,11 +377,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 31,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "id": "inv-recipe-000012",
@@ -188,11 +407,25 @@
     ],
     "quantity": 100,
     "is_deleted": false,
-    "avg_retail": 5,
-    "end_date": null,
-    "start_date": null,
     "status": "Active",
-    "oh_tracking": true
+    "oh_tracking": true,
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "uom": "inv-uom-0001",
@@ -204,12 +437,26 @@
       "store_test_04"
     ],
     "quantity": 100,
-    "end_date": null,
     "status": "Active",
     "is_deleted": false,
-    "avg_retail": null,
-    "start_date": null,
-    "id": "b7b61a10-5da2-11e8-88d0-9918ff1d88ae"
+    "id": "b7b61a10-5da2-11e8-88d0-9918ff1d88ae",
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+
+    ],
+    "class_conversions":
+    [
+
+    ]
   },
   {
     "uom": "inv-uom-0001",
@@ -221,12 +468,34 @@
       "store_test_04"
     ],
     "quantity": 100,
-    "end_date": null,
     "status": "Active",
     "is_deleted": false,
-    "avg_retail": null,
-    "start_date": null,
-    "id": "d775c410-5da0-11e8-88d0-9918ff1d88ae"
+    "id": "d775c410-5da0-11e8-88d0-9918ff1d88ae",
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0001",
+        "to_uom_id": "inv-uom-0007",
+        "factor": 25
+      }
+    ],
+    "class_conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0001",
+        "to_uom_id": "inv-uom-0006",
+        "factor": 3200
+      }
+    ]
   },
   {
     "uom": "inv-uom-0013",
@@ -238,11 +507,34 @@
       "store_test_04"
     ],
     "quantity": 100,
-    "end_date": null,
     "status": "Active",
     "is_deleted": false,
-    "avg_retail": null,
-    "start_date": null,
-    "id": "6717fab0-5da2-11e8-9c68-fba71ba83bc5"
+    "id": "6717fab0-5da2-11e8-9c68-fba71ba83bc5",
+    "item_ingredients":
+    [
+
+    ],
+    "recipe_ingredients":
+    [
+
+
+    ],
+    "theoretical_on_hand": 500,
+    "conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0013",
+        "to_uom_id": "inv-uom-0001",
+        "factor": 1000
+      }
+    ],
+    "class_conversions":
+    [
+      {
+        "from_uom_id": "inv-uom-0006",
+        "to_uom_id": "inv-uom-0001",
+        "factor": 25
+      }
+    ]
   }
 ]
