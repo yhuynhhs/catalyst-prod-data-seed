@@ -16,12 +16,12 @@
     [
       {
         "entity_id": "inv-item-0000010",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0006",
         "quantity": 10
       },
       {
         "entity_id": "inv-item-0000013",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0007",
         "quantity": 10
       }
     ],
@@ -29,9 +29,8 @@
     [
       {
         "entity_id": "6717fab0-5da2-11e8-9c68-fba71ba83bc5",
-        "uom": "inv-uom-0013",
-        "quantity": 10,
-        "category": "inv-cat-004"
+        "uom": "inv-uom-0014",
+        "quantity": 10
       }
     ],
     "theoretical_on_hand": 500,
@@ -60,12 +59,12 @@
     [
       {
         "entity_id": "inv-item-0000011",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0002",
         "quantity": 10
       },
       {
         "entity_id": "inv-item-0000012",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0002",
         "quantity": 10
       }
     ],
@@ -73,7 +72,7 @@
     [
       {
         "entity_id": "d775c410-5da0-11e8-88d0-9918ff1d88ae",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0014",
         "quantity": 10
       }
     ],
@@ -103,14 +102,14 @@
     [
       {
         "entity_id": "inv-item-0000019",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0007",
         "quantity": 10
       }
     ],
     "recipe_ingredients":
     [
       {
-        "entity_id": "inv-item-000004",
+        "entity_id": "inv-recipe-000004",
         "uom": "inv-uom-0001",
         "quantity": 10
       }
@@ -136,7 +135,7 @@
   },
   {
     "id": "inv-recipe-000004",
-    "name": "Fried Chicken",
+    "name": "Fried Chicken (in French Fries)",
     "uom": "inv-uom-0001",
     "category": "inv-cat-006",
     "store_key": [
@@ -151,12 +150,12 @@
     [
       {
         "entity_id": "inv-item-0000014",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0006",
         "quantity": 10
       },
       {
         "entity_id": "inv-item-0000015",
-        "uom": "inv-uom-0001",
+        "uom": "inv-uom-0002",
         "quantity": 10
       }
     ],
@@ -181,7 +180,7 @@
   {
     "id": "inv-recipe-000005",
     "name": "Chicken Burger",
-    "uom": "inv-uom-0001",
+    "uom": "inv-uom-0008",
     "category": "inv-cat-006",
     "store_key": [
       "store_test"
@@ -202,17 +201,17 @@
     "conversions":
     [
       {
-        "from_uom_id": "inv-uom-0005",
-        "to_uom_id": "inv-uom-0014",
-        "factor": 20
+        "from_uom_id": "inv-uom-0008",
+        "to_uom_id": "inv-uom-0005",
+        "factor": 10
       }
     ],
     "class_conversions":
     [
       {
-        "from_uom_id": "inv-uom-0004",
-        "to_uom_id": "inv-uom-0006",
-        "factor": 0.02
+        "from_uom_id": "inv-uom-0006",
+        "to_uom_id": "inv-uom-0004",
+        "factor": 312.5
       }
     ]
   },
@@ -484,16 +483,16 @@
     [
       {
         "from_uom_id": "inv-uom-0001",
-        "to_uom_id": "inv-uom-0007",
-        "factor": 25
+        "to_uom_id": "inv-uom-0014",
+        "factor": 35
       }
     ],
     "class_conversions":
     [
       {
         "from_uom_id": "inv-uom-0001",
-        "to_uom_id": "inv-uom-0006",
-        "factor": 3200
+        "to_uom_id": "inv-uom-0002",
+        "factor": 840
       }
     ]
   },
@@ -524,16 +523,16 @@
     [
       {
         "from_uom_id": "inv-uom-0013",
-        "to_uom_id": "inv-uom-0001",
-        "factor": 1000
+        "to_uom_id": "inv-uom-0014",
+        "factor": 500
       }
     ],
     "class_conversions":
     [
       {
         "from_uom_id": "inv-uom-0006",
-        "to_uom_id": "inv-uom-0001",
-        "factor": 25
+        "to_uom_id": "inv-uom-0002",
+        "factor": 300
       }
     ]
   }
