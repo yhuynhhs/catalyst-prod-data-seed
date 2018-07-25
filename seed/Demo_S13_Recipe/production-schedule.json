@@ -1,8 +1,8 @@
 [
   {
     "store_key": null,
-    "name": "Global Daily Prep",
-    "unique_name": "global daily prep_null",
+    "name": "Global Daily",
+    "unique_name": "global daily",
     "status": "Active",
     "frequencies": [
       {
@@ -16,7 +16,7 @@
           "Sun"
         ],
         "frequency_time": "09:00 PM",
-        "is_thaw": false,
+        "is_thaw": true,
         "is_prep": true
       },
       {
@@ -30,7 +30,7 @@
           "Sun"
         ],
         "frequency_time": "10:00 PM",
-        "is_thaw": false,
+        "is_thaw": true,
         "is_prep": true
       }
     ],
